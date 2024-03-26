@@ -27,3 +27,15 @@ Les 2 elements qui definissent une étape :
 Utilité de "with" :
 
     Le mot-clé with est utilisé pour passer des paramètres supplémentaires à l'action ou à l'étape.
+
+## Exercice 2
+
+### SonarCloud fournit 4 indicateurs. Quels sont-ils et quelles sont leurs utilités ?
+
+- Reliabilité : identification des bugs
+- Maintenabilité : Analyse des indicateurs de problèmes rendant la maintenance futur plus difficile
+- Securité / Revue de securité : Identifications des vulnerabilités presentes.
+
+### À quoi sert l'indicateur Quality Gate ?
+
+A definir si le projet est pret pour la phase de production
